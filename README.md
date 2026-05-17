@@ -24,7 +24,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Program
 ```
 Developed by :dinesh.M
-Reference number:212225040080
+Register Number:212225040080
 ```
 
 ```arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -56,5 +56,9 @@ print("---------------------------------------------------------------")
 <img width="929" height="399" alt="image" src="https://github.com/user-attachments/assets/26862263-77e6-4dcd-b0d1-29d07ea5f3c0" />
 
 ## Result :
-
 The average number of material in the system and in the conveyor and waiting time are successfully found.
+
+## Github Link:
+```
+https://github.com/Dinesh-Mahendhiran/Single-server-infinite-capacity---Markov-Model.git
+```
